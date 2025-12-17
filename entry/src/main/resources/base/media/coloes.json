@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "app_background",
+      "value": "#000000"
+    },
+    {
+      "name": "display_background",
+      "value": "#000000"
+    },
+    {
+      "name": "display_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "error_text",
+      "value": "#FF3B30"
+    },
+    {
+      "name": "number_button",
+      "value": "#4A4A4A"
+    },
+    {
+      "name": "operator_button",
+      "value": "#FF9500"
+    },
+    {
+      "name": "function_button",
+      "value": "#2E2E2E"
+    }
+  ]
+}

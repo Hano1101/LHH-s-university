@@ -1,0 +1,23 @@
+/* entry/src/main/resources/base/media/style.css */
+.button-number {
+    background-color: #FFFFFF;
+    font-size: 24px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.button-operator {
+    background-color: #FF9500;
+    color: #FFFFFF;
+    font-size: 24px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.button-function {
+    background-color: #A5A5A5;
+    color: #000000;
+    font-size: 24px;
+    border-radius: 10px;
+    margin: 5px;
+}
